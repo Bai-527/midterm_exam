@@ -1,0 +1,12 @@
+../Core/Src/main.c:100:13:RingBuffer_Push	24	static
+../Core/Src/main.c:108:12:RingBuffer_Pop	16	static
+../Core/Src/main.c:117:13:Send_UART_String	16	static
+../Core/Src/main.c:122:13:Process_UART_Commands	24	static
+../Core/Src/main.c:158:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:166:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:189:5:main	16	static
+../Core/Src/main.c:278:6:SystemClock_Config	88	static
+../Core/Src/main.c:325:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:372:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:431:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:467:6:Error_Handler	4	static,ignoring_inline_asm
