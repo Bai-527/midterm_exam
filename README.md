@@ -65,8 +65,8 @@
 
 ## 7. 程式結構：
 
-*```text
-Core/
+* ```text
+* Core/
 ├── Inc/
 │   └── main.h             # 腳位與系統定標頭檔
 └── Src/
