@@ -87,13 +87,13 @@
 
 ## 8. 實作照片：每張附一行圖說
 
-![NUCLEO-G474RE 板載硬體與 PA5/PC13 標示](images/hardware_setup1.png)
+![NUCLEO-G474RE 板載硬體與 PA5/PC13 標示](image/hardware_setup1.png)
 *圖 1：NUCLEO-G474RE 開發板實體圖，未啟動時的 PC13 拔槍按鈕與 PA5 開火指示燈。*
 
-![串口輸入 start 3 命令與開火提示](images/hardware_setup2.png)
+![串口輸入 start 3 命令與開火提示](image/hardware_setup2.png)
 *圖 2：NUCLEO-G474RE 開發板實體圖，燈光與號角響起時 PC13 拔槍按鈕與 PA5 開火指示燈。*
 
-![成功按下按鈕顯示毫秒級反應時間](images/serial_hit.png)
+![成功按下按鈕顯示毫秒級反應時間](image/serial_hit.png)
 *圖 3：Serial Terminal 輸入 `start 5` 後系統進入 Ready 倒數狀態並觸發開火訊號。 號角響起後按下按鈕，系統關閉 PWM 並精準回傳反應時間（如 268 ms）。*
 
 ---
